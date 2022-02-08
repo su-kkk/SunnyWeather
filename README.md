@@ -1,2 +1,2 @@
-# Sunnyweather
+# SunnyWeather
 WeatherApp
